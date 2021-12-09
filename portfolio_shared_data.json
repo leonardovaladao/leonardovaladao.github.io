@@ -1,0 +1,102 @@
+{
+    "basic_info": {
+      "name": "Leonardo Valadão",
+      "titles": [ "Data Scientist", "Data Analyst", "Physicist", "Teacher" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/leonardovaladao",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/leonardo-valad%C3%A3o/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "medium",
+          "url": "https://medium.com/@leonardo.m.valadao",
+          "class": "fab fa-medium"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Numpy",
+          "class": "devicon-numpy-original",
+          "level": "80"
+        },
+        
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-original",
+          "level": "80"
+        },
+        {
+          "name": "Scala",
+          "class": "devicon-scala-plain",
+          "level": "100"
+        },
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain",
+          "level": "80"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "80"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "80"
+        }
+      ]
+    },
+    "languages": {
+      "icons": [
+        {
+          "name": "Português",
+          "class": "twemoji-flag-for-flag-brazil",
+          "listening": "100",
+          "speaking": "100",
+          "reading": "100",
+          "writing": "100"
+        },
+        {
+          "name": "  English  ",
+          "class": "twemoji-flag-for-flag-united-states",
+          "listening": "90",
+          "speaking": "90",
+          "reading": "100",
+          "writing": "80"
+        },
+        {
+          "name": "Français",
+          "class": "twemoji-flag-for-flag-france",
+          "listening": "20",
+          "speaking": "20",
+          "reading": "40",
+          "writing": "20"
+        }
+      ]
+    }
+  }

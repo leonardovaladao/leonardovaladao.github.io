@@ -1,0 +1,251 @@
+{
+    "basic_info": {
+      "description_header": "Olá",
+      "description": "👋 Seja bem-vindo(a) ao meu site! Sou o Leonardo, tenho 23 anos e moro em São Paulo-SP. Aqui você pode encontrar algumas informações sobre mim: Alguns projetos que realizei, algumas das tecnologias e idiomas que domino, além de um pouco sobre a minha história e o meu contato. Continue abaixo para descobrir ;) 💜",
+      "section_name": {
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "projectsSubtitle": "Estes são alguns dos projetos que já realizei",
+        "skills": "Tecnologias",
+        "skillssubtitle": "Estas são as principais tecnologias que eu domino.",
+        "language": "Idiomas",
+        "languagesubtitle": "Estes são os idiomas nos quais possuo proficiência.",
+        "listening": "Escuta", "speaking": "Fala", "reading": "Leitura", "writing": "Escrita",
+        "contact": "Contato",
+        "contactsubtitle": "Clique nos botões para acessar os canais",
+        "experience": "Minha História",
+        "experiencesubtitle": "Conheça um pouco mais sobre mim vendo os eventos que mais impactaram minha carreira acadêmica e profissional."
+        
+      }
+    },
+    "projects": [
+      {
+        "title": "Classificador de SPAM",
+        "startDate": "2020",
+        "description": "Um pequeno classificador de SPAM que fiz utilizando Regressão Logística. O classificador está em um objeto e pode ser importado e utilizado. Com exceção do algoritmo de Regressão, importado do SKLearn, o algoritmo do classificador foi todo feito do zero. Clique ao lado do nome para saber mais. ",
+        "images": [
+          "https://popupsmart.com/encyclopedia/images/e/m/a/i/l/email-marketing-spam-folder-b88816b4.jpeg"
+        ],
+        "url": "https://github.com/leonardovaladao/Hands-on-ML/blob/master/Exercises/Exercise-3.4-SPAM-Classifier.ipynb",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
+          }
+        ]
+      },
+      {
+        "title": "Proffy",
+        "startDate": "2020",
+        "description": "Um projeto full-stack que realizei durante o evento NextLevelWeek 2 da RocketSeat. O projeto consiste em uma aplicação completa focada no cadastro de professores para que possíveis alunos possam contatá-los e marcar aulas. O projeto possui uma estrutura back-end para processamento de dados, e o front-end para app mobile e website. Clique ao lado do nome para ver mais.",
+        "images": [
+          "images/portfolio/proffy.png"
+        ],
+        "url": "https://github.com/leonardovaladao/Proffy",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React Native"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "Cluster Analysis no Moodle-USP",
+        "startDate": "2019",
+        "description": "Durante uma Iniciação Científica na USP, realizei uma análise exploratória de dados no Moodle da USP, principal plataforma educacional desta universidade. Nesta análise, realizei um estudo de clusters utilizando k-means, a fim de encontrar diferentes agrupamentos de perfis estudantis e realizar insights sobre estes perfis. Clique ao lado do nome para ver a análise.",
+        "images": [
+          "https://static.vecteezy.com/system/resources/previews/002/173/392/non_2x/student-studying-at-home-free-vector.jpg"
+        ],
+        "url": "https://github.com/leonardovaladao/MoodleLogs/blob/master/Logs_Analysis.ipynb",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupyter"
+          },
+          {
+            "class": "devicon-numpy-plain",
+            "name": "Numpy"
+          },
+          {
+            "class": "devicon-pandas-plain",
+            "name": "Pandas"
+          }
+        ]
+      }
+    ],
+    "contactWays": [
+      {
+        "link": "mailto:leonardo.m.valadao@hotmail.com",
+        "iconURL": "fas fa-at",
+        "text": "Me envie um e-mail"
+      },
+      {
+        "link": "https://www.linkedin.com/in/leonardo-valad%C3%A3o/",
+        "iconURL": "fab fa-linkedin",
+        "text": "Entre no meu LinkedIn"
+      },
+      {
+        "link": "https://wa.me/+5511943075610",
+        "iconURL": "fab fa-whatsapp",
+        "text": "Me chame no WhatsApp"
+      },
+      {
+        "link": "https://github.com/leonardovaladao/",
+        "iconURL": "fab fa-github",
+        "text": "Acesse meu GitHub"
+      }
+    ],
+    "aboutContact": [
+      {
+        "link": "https://github.com/leonardovaladao/portfolio/blob/master/BW_Portugues_CV_071221.pdf",
+        "text": "Meu CV",
+        "target": "_blank"
+      },
+      {
+        "link": "#contact-page",
+        "text": "Contato"
+      },
+      {
+        "link": "https://github.com/leonardovaladao",
+        "text": "Github",
+        "target": "_blank"
+      },
+      {
+        "link": "https://medium.com/@leonardo.m.valadao/",
+        "text": "Medium",
+        "target": "_blank"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Propz",
+        "icon": "devicon-scala-plain",
+        "title": "Cientista de Dados",
+        "years": "mai 2021 - presente",
+        "mainTech": [
+          ""
+        ],
+        "text": "Em meu primeiro emprego full-time, trabalho na Propz como Cientista de Dados, dando suporte técnico à solução de Data Science, construindo material didático sobre a mesma, e realizando projetos-piloto de algoritmos em Scala.",
+        "technologies": [
+          "Scala", "Spark", "Excel"
+        ]
+      },
+      {
+        "company": "Universidade de São Paulo",
+        "icon": "fas fa-user-graduate",
+        "title": "Formação em Física",
+        "years": "jun 2021",
+        "mainTech": [
+          ""
+        ],
+        "text": "Após 4 anos de curso, me formei em Física pela USP, com habilitação em Licenciatura. ",
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "OMNI Brasil",
+        "icon": "devicon-postgresql-plain",
+        "title": "Analista de Business Intelligence",
+        "years": "dez 2020 - mai 2021",
+        "mainTech": [
+          ""
+        ],
+        "text": "Reinserido no mercado de trabalho, fui estagiário na Omni Brasil, onde trabalhei principalmente gerando insights para o time de vendas e marketing, construindo um banco de dados com PostgreSQL, produzindo visualizações com Google Data Studio, e manipulando dados com Python.",
+        "technologies": [
+          "PostgreSQL", "Google Data Studio", "Python", "Excel"
+        ]
+      },
+      {
+        "company": "Universidade de São Paulo",
+        "icon": "fas fa-microscope",
+        "title": "Bolsista de Iniciação Científica",
+        "years": "ago 2019 - mai 2021",
+        "mainTech": [
+          ""
+        ],
+        "text": "Adicionando uma segunda Iniciação Científica, trabalhei diretamente com pesquisa científica. Nesta, estudei sobre a história e a epistemologia do eletromagnetismo no final do século XIX na Inglaterra. Mais especificamente, estudei a diferença epistemológica entre a Física e a Engenharia da época.",
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Universidade de São Paulo",
+        "icon": "devicon-wordpress-plain",
+        "title": "Bolsista de Iniciação Científica",
+        "years": "out 2018 - set 2020",
+        "mainTech": [
+          ""
+        ],
+        "text": "Adentrando no programa de Iniciação Científica da USP, pude trabalhar com a plataforma educacional da universidade, principalmente com conteúdo da plataforma e criação de um website do zero, utilizando WordPress.",
+        "technologies": [
+          "HTML", "CSS", "JavaScript", "WordPress"
+        ]
+      },
+      {
+        "company": "Universidade de São Paulo",
+        "icon": "fas fa-university",
+        "title": "Iniciou o curso de Física",
+        "years": "mar 2017",
+        "mainTech": [
+          ""
+        ],
+        "text": "Dando uma pausa no trabalho para focar nos estudos, iniciei o curso de Física na Universidade de São Paulo. ",
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "SumUp",
+        "icon": "fas fa-smile-plus",
+        "title": "Fiscal de Logística",
+        "years": "jul 2015 - mar 2017",
+        "mainTech": [
+          ""
+        ],
+        "text": "No meu primeiro emprego, ainda como jovem aprendiz e depois efetivado, trabalhei com administração operacional e funcional da logística de produtos para o consumidor final.",
+        "technologies": [
+          "Excel"
+        ]
+      },
+      {
+        "company": "",
+        "icon": "fas fa-baby",
+        "title": "Nascimento",
+        "years": "mar 1998",
+        "mainTech": [
+          ""
+        ],
+        "text": "",
+        "technologies": [
+        ]
+      }
+    ]
+  }
